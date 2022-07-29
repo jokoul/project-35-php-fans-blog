@@ -28,9 +28,9 @@ $query = "SELECT * FROM categories";
 $categories = $db->select($query);
 ?>
          <!-- Page header with logo and tagline-->
-        <header class="py-5 bg-light border-bottom mb-4">
+        <header class="py-1 bg-light border-bottom mb-2">
             <div class="container">
-                <div class="text-center my-5">
+                <div class="text-center my-3">
                     <div><img src="./images/logoblog.png" alt="logo" width="150"/></div>
                     <h1 class="fw-bolder">Welcome to PHP Fans Blog</h1>
                     <p class="lead mb-0">PHP News, tutorials, videos & more</p>
