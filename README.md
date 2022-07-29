@@ -6,7 +6,7 @@ This is a Blog made with PHP POO and MySQL. I separate my code in module files a
 
 ## Stack
 
-PHP, MySQL
+PHP, MySQL,Bootstrap
 
 ## Launch
 
